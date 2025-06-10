@@ -1,7 +1,9 @@
 
 
 //es un comentario de preuba
-import Calcu from './Calcu.jsx';
+// @ts-ignore
+import Calcu from './Calcu.jsx'
+
 
 import './App.css';
 
